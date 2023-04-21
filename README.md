@@ -7,6 +7,3 @@
 ![](https://komarev.com/ghpvc/?username=iankaguer)
 ![iankaguer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iankaguer&theme=tokyonight)
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
