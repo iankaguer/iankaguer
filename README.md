@@ -3,6 +3,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iankaguer&show_icons=true&theme=tokyonight&layout=compact)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iankaguer)](https://github.com/stats-organization/github-stats-extended)
 ![](https://komarev.com/ghpvc/?username=iankaguer)
 
