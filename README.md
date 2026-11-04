@@ -1,5 +1,5 @@
 
-[![iankaguer's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![iankaguer's GitHub stats](https://github-stats-extended.vercel.app/api?username=iankaguer)](https://github.com/stats-organization/github-stats-extended)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)
 
 
